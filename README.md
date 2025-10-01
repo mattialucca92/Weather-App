@@ -2,7 +2,8 @@
 
 Benvenuto nella mia Weather App! ☀️🌧️ Questo progetto permette di consultare le condizioni meteo di qualsiasi città, mostrando informazioni dettagliate come temperatura, umidità e vento, il tutto in un’interfaccia semplice e intuitiva.
 
-🔗 Demo | GitHub
+🔗 Demo
+   GitHub: https://github.com/mattialucca92/Weather-App
 
 🛠️ Tecnologie utilizzate
 
