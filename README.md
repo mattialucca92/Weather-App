@@ -1,12 +1,43 @@
-# React + Vite
+📌 Weather App – Mattia Lucca
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Benvenuto nella mia Weather App! ☀️🌧️ Questo progetto permette di consultare le condizioni meteo di qualsiasi città, mostrando informazioni dettagliate come temperatura, umidità e vento, il tutto in un’interfaccia semplice e intuitiva.
 
-Currently, two official plugins are available:
+🔗 Demo | GitHub
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tecnologie utilizzate
 
-## Expanding the ESLint configuration
+JavaScript – per la logica dell’applicazione
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+HTML & CSS – per struttura e design responsive
+
+API OpenWeather 🌐 – per ottenere dati meteo in tempo reale
+
+📂 Sezioni principali
+
+Ricerca città → inserisci il nome di una città per visualizzarne il meteo
+
+Dettagli meteo → temperatura, condizioni atmosferiche, vento e umidità
+
+Cronologia → elenco delle ultime città consultate
+
+🌟 Caratteristiche principali
+
+Design semplice e responsive
+
+Aggiornamento dei dati in tempo reale tramite API
+
+Navigazione intuitiva
+
+🚀 Come avviare il progetto in locale
+
+git clone https://github.com/mattialucca92/Weather-App.git
+cd Weather-App
+npm install
+npm run dev
+
+📬 Contatti
+
+Per qualsiasi informazione:
+📧 Email: mattialucca92@gmail.com
+💼 LinkedIn: linkedin.com/in/luccamattia
+🐙 GitHub: github.com/mattialucca92
